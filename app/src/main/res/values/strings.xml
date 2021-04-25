@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Pakar Pepaya</string>
+    <string name="img_description">img_description</string>
+
+    <string name="apakah">Apakah </string>
+    <string name="string_format">%1$s%2$s%3$s</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+
+    <!--Menu/-->
+    <string name="menu_diagnose">Diagnosa Penyakit</string>
+    <string name="menu_data">Data Penyakit</string>
+    <string name="menu_about">Tentang</string>
+    <string name="menu_help">Bantuan</string>
+
+
+    <!--Daftar Gejala/-->
+    <string name="G01">Daun Dewasa  Layu</string>
+    <string name="G02">Daun Menguning</string>
+    <string name="G03">Semua Daunnya Akan Gugur dan Pada Akhirnya Tanaman Akan Mati</string>
+    <string name="G04">Akar-Akar Lateral Membusuk, Berwarna Cokelat Tua, Lunak dan Sering Berbau Tidak Enak</string>
+    <string name="G05">Bercak-Bercak Bulat Berwarna Coklat Muda</string>
+    <string name="G06">Pusat Bercak Sering Pecah Sehingga Bercak Berlubang</string>
+    <string name="G07">Pada Buah Mengakibatkan Bercak</string>
+    <string name="G08">Pada Daun Dewasa Atau Tua Terdapat Bercak-Bercak Putih Kelabu Berbentuk Bulat Sampai Tidak Beraturan</string>
+    <string name="G09">Daun Menjadi Berwarna Kuning Lalu Mati Mengering</string>
+    <string name="G10">Bintik Berwarna Hitam Pada Buah Yang Mengakibatkan Busuk Buah</string>
+    <string name="G11">Dibagian Bawah Daun Tampak Berwarna Putih Seperti Tepung</string>
+    <string name="G12">Dibagian Atas Permukaan Daun Dekat Tulang Daun Terdapat Bintik Berwarna Kuning Atau Hijau Pucat</string>
+    <string name="G13">Tangkai Daun Dan Batang Terdapat Bercak Kebasah-Basahan</string>
+    <string name="G14">Pada Tanaman Muda Daun Menguning Dan Membusuk</string>
+    <string name="G15">Bagian Tunas-Tunas Muda Mengalami Kematian</string>
+    <string name="G16">Warna Kekuningan Dan Transparansi Tulang-Tulang Daun Muda</string>
+    <string name="G17">Pada Daun Terdapat Bercak Kuning dan Kadang-Kadang Daun Seperti Terpelintir Dengan Bentuk Yang Tidak Teratur</string>
+    <string name="G18">Pada Buah, Bercak Seperti Cincin Atau Mirip Huruf C</string>
+    <string name="G19">Terdapat Garis-Garis Hijau Gelap Dan Bercak Seperti Cincin Pada Tangkai Daun Batang</string>
+    <string name="G20">Daun Tampak Tumbuh Kasar</string>
+    <string name="G21">Sisi Daun Bagian Bawah Bergaris-Garis Tipis Tidak Teratur (Mozaik) Berwarna Hijau Gelap Dengan Batas-Batas Jelas Disepanjang Tulang Daun</string>
+    <string name="G22">Pada Buah Muda Ditandai Dengan Munculnya Bercak Kecil Kebasah-Basahan Yang Mengeluarkan Getah Yang Berbentuk Bintik</string>
+    <string name="G23">Pada Buah Yang Menjelang Matang Muncul Bercak-Bercak Kecil Bulat Kebasah-Basahan Berwarna Cokelat Kemerahan</string>
+    <string name="G24">Bila Buah Bertambah Masak, Bulatan-Bulatan Tadi Semakin Besar Dan Busuk Cekung Kearah Dalam Buah</string>
+    <string name="G25">Pada Daun, Terjadi Bercak Kecil Kebasah-Basahan, Bentuknya Tidak Teratur, dan Meluas Berwarna Coklat Muda</string>
+    <string name="G26">Buah Yang Sudah Dipanen Menjadi Busuk, Bonyok, dan Berair</string>
+    <string name="G27">Buah Dilapisi Oleh Sporangiospora Berwarna Hitam</string>
+
+    <!--Daftar Penyakit/-->
+    <string name="P00">Penyakit Tidak Ditemukan</string>
+    <string name="P01">Penyakit Busuk Akar dan Pangkal Batang</string>
+    <string name="P02">Corynespora</string>
+    <string name="P03">Cercospora</string>
+    <string name="P04">Penyakit Tepung</string>
+    <string name="P05">Erwinia Pepayae</string>
+    <string name="P06">Penyakit Bercak Cincin</string>
+    <string name="P07">Mosaik Pepaya</string>
+    <string name="P08">Antraknosa</string>
+    <string name="P09">Busuk Rhizopus</string>
+
+    <!--Daftar Gejala/-->
+    <string name="G01A">G01</string>
+    <string name="G02A">G02</string>
+    <string name="G03A">G03</string>
+    <string name="G04A">G04</string>
+    <string name="G05A">G05</string>
+    <string name="G06A">G06</string>
+    <string name="G07A">G07</string>
+    <string name="G08A">G08</string>
+    <string name="G09A">G09</string>
+    <string name="G10A">G10</string>
+    <string name="G11A">G11</string>
+    <string name="G12A">G12</string>
+    <string name="G13A">G13</string>
+    <string name="G14A">G14</string>
+    <string name="G15A">G15</string>
+    <string name="G16A">G16</string>
+    <string name="G17A">G17</string>
+    <string name="G18A">G18</string>
+    <string name="G19A">G19</string>
+    <string name="G20A">G20</string>
+    <string name="G21A">G21</string>
+    <string name="G22A">G22</string>
+    <string name="G23A">G23</string>
+    <string name="G24A">G24</string>
+    <string name="G25A">G25</string>
+    <string name="G26A">G26</string>
+    <string name="G27A">G27</string>
+
+    <!--Daftar Penyakit/-->
+    <string name="P01A">P1</string>
+    <string name="P02A">P2</string>
+    <string name="P03A">P3</string>
+    <string name="P04A">P4</string>
+    <string name="P05A">P5</string>
+    <string name="P06A">P6</string>
+    <string name="P07A">P7</string>
+    <string name="P08A">P8</string>
+    <string name="P09A">P9</string>
+
+
+</resources>
